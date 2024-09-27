@@ -1908,7 +1908,12 @@ partner */
     .main {
         max-width: 95%;
     }
-
+    .custom-next{
+        display: none!important;
+    }
+    .custom-prev{
+        display: none!important;
+    }
     .menu a {
         font-size: 18px;
     }
