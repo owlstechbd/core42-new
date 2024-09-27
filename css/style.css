@@ -1908,12 +1908,13 @@ partner */
     .main {
         max-width: 95%;
     }
-    .custom-next{
+    .custom-nav.custom-prev.for-desktop {
         display: none!important;
     }
-    .custom-prev{
+    .custom-nav.custom-next.for-desktop {
         display: none!important;
     }
+   
     .menu a {
         font-size: 18px;
     }
